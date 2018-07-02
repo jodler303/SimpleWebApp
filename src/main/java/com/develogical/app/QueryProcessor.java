@@ -10,7 +10,7 @@ public class QueryProcessor {
         }
         else if (query.toLowerCase().contains("hacker2"))
         {
-            return "Handsome";
+            return "Handsom2e";
         }
         else if (query.toLowerCase().contains("commit"))
         {
